@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    border-style: dotted ; 
+    
+    
+}
+body
+{
+
+}
+h1{
+    font-family: 'Times New Roman', Times, serif; color: rgb(255, 255, 255); 
+    background-color: pink;
+}
+form{
+    border: 2px;
+    border-radius: 5px;
+    background-color:pink;
+}
